@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: justify-all;
+    color: aliceblue;
+    font-family: cursive;
+}
+
+header{
+    width: 100%;
+    height: 70px;
+    
+    padding: 10px 50px 10px 50px;
+    box-sizing: border-box;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+    
+    background-color: #3f76a6;
+    background-image: linear-gradient(160deg, #3f76a6 0%, #8c5d94 100%);
+            
+}
+
+.logo{
+    color: aliceblue;
+}
+
+.nav{
+    list-style: none;
+    width: 200px;
+        
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+
+

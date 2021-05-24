@@ -1,0 +1,94 @@
+/*header*/
+
+.Inicio{
+    font-size: 18px;
+    font-family: cursive;
+    display: block;
+    width: 50px;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    color:aliceblue;
+    padding: 10px 10px 10px 10px;
+     background-color: #8c5d94;
+background-image: linear-gradient(160deg, #8c5d94 0%, #3f76a6 100%);
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+.Inicio:hover{
+    cursor:context-menu;
+    width: 100px;
+    transition: 0.3s;
+    background-color: #925990;
+background-image: linear-gradient(160deg, #925990 0%, #0e2f59 100%);
+
+
+}
+
+.Glosario{
+    font-size: 18px;
+    font-family: cursive;
+    display: block;
+    width: 75px;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    color:aliceblue;
+    padding: 10px 10px 10px 10px;
+     background-color: #8c5d94;
+background-image: linear-gradient(160deg, #8c5d94 0%, #3f76a6 100%);
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+.Glosario:hover{
+    cursor:context-menu;
+    width: 110px;
+    transition: 0.3s;
+    background-color: #925990;
+background-image: linear-gradient(160deg, #925990 0%, #0e2f59 100%);
+
+ }
+
+/*Baner*/
+
+.banner_index{
+    width: 100%;
+    height: 550px;
+    padding-top: 200px;
+    background-image:url(../img/2318.jpg);
+    background-size: cover; 
+}
+
+.leyenda{
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.btn_banner{
+    display: block;
+    width: 65px;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    color:aliceblue;
+    padding: 10px 30px 10px 15px;
+    background-color: #0093E9;
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+.btn_banner:hover{
+    
+    cursor:context-menu;
+    width: 115px;
+    transition: 0.3s;
+    background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+}
+
+
+
